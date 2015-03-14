@@ -1,4 +1,4 @@
-# Assignment for lecture 1 `2015-03-10`
+# Assignment for lesson 1 `2015-03-10`
 *updated 2015-03-14 14:38:24 -0700*
 
 ## Before Coding
