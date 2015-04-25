@@ -1,5 +1,5 @@
-# Assignment for lesson 1 `2015-03-10`
-*updated 2015-03-14 14:38:24 -0700*
+# Assignment for lesson 1
+*updated 2015-03-14 15:04:05 -0700*
 
 ## Before Coding
 Before writing any code, please follow the instructions one step at a time.
@@ -85,7 +85,7 @@ they stay on the same line (this will be important later).
 ```
 Hi, my name is Gregory.
 I am 28 years old.
-My hobbies are sky diving, fighting crime, programming and playing the drums
+My hobbies are sky diving, fighting crime, programming and drumming
 ```
 
 
