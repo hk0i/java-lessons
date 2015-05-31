@@ -91,6 +91,7 @@ name`. `name` should hold the value of your name.
 ### 5A. Sum 41
 
 Write a program **FourtyOne** which calculates the sum of the numbers 1 - 41.
+This would be the same as doing 1+2+3+4... All the way to 41.
 
 ### 5B. Average 41
 
@@ -276,4 +277,5 @@ public class ArrayVerage {
 
 [switch statements]: http://www.homeandlearn.co.uk/java/java_switch_statements.html
 [tagging versions]: http://githowto.com/tagging_versions
+
 
